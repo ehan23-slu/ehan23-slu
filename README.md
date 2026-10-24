@@ -8,8 +8,6 @@
 
 🛠️ Experienced with Python, Java, C, JavaScript, Swift, SwiftUI, Firebase, and Git
 
-I am particularly interested in developing software systems that connect data collection, processing, and real-world applications.
-
 ---
 
 ## Research Experience
